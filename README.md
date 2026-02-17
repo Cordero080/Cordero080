@@ -25,6 +25,8 @@ Full 3D pipeline: Blender → Three.js with 32 animations
 **[NUCAT](https://github.com/Cordero080/nucat)** — GPU Particle Systems  
 Real-time ASCII point cloud renderer utilizing InstancedMesh and matrix-based skeleton sampling
 
+**[DOJO](https://github.com/Cordero080/dojo-crud-app)** — A full-stack martial arts tracker built on authentic Okinawan Goju Ryu curriculum, featuring belt progression from 10th kyu to 8th dan with soft-delete recovery and rank-based analytics
+
 ---
 
 ## Technical Skills
