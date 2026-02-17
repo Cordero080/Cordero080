@@ -10,17 +10,17 @@ Complexity should serve the user—not the other way around. I build systems tha
 
 ## Featured Projects
 
-**[NUMENEON](https://github.com/Cordero080/Numeneon-frontend)** — UI Lead  
-Cyberpunk social media platform with River Timeline feed design. Team capstone project (807 clones)
+**[NUMENEON](https://github.com/Cordero080/Numeneon-frontend)** — Co-Lead & System Architect
+Neopunk social media platform; designed full-stack scaffolding, pseudocode, and task architecture for the team. River Timeline feed system. (807 clones in 6 days)
 
-**[Pneuma](https://github.com/Cordero080/pneuma-ai)** — AI Personality Engine  
-Experimental AI framework with 46 philosophical archetypes 
+**[Pneuma](https://github.com/Cordero080/pneuma-ai)** — AI Personality Architecture
+Cognitive framework of 46 philosophical archetypes that collide to synthesize emergent insights — not a chatbot, not a persona, a mind behind the model. (467 clones)
 
-**[Nexus Geom Lab](https://github.com/Cordero080/nexus-geom-lab)** — Interactive 3D Platform  
-Geometry visualization app with 24 interactive geometries including tesseracts
+**[Nexus Geom Lab](https://github.com/Cordero080/nexus-geom-lab)** — 3D Geometry Visualization Platform
+24 hyperdimensional geometries with GLSL shaders, progressive unlock system, and audio-reactive rendering. (380 clones)
 
-**[Transcendence](https://github.com/Cordero080/Transcendence-3D-v2)** — 3D Virtual Pet Game  
-Full 3D pipeline: Blender → Three.js with 32 animations
+**[Transcendence](https://github.com/Cordero080/Transcendence-3D-v2)** — 3D Evolution Simulator
+Full Blender → FBX → Three.js pipeline with 32 custom animations, GLSL shaders, and hidden Battle Arena easter egg.
 
 **[NUCAT](https://github.com/Cordero080/nucat)** — GPU Particle Systems  
 Real-time ASCII point cloud renderer utilizing InstancedMesh and matrix-based skeleton sampling
