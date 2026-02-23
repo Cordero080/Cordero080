@@ -1,4 +1,4 @@
-# Hello, I am Pablo Cordero
+d# Hello, I am Pablo Cordero
 
 **Full Stack Software Engineer & Creative Technologist** focused on building high-performance web applications where technical precision meets experimental design.
 
@@ -14,7 +14,10 @@ Complexity should serve the user—not the other way around. I build systems tha
 Neopunk social media platform; designed full-stack scaffolding, pseudocode, and task architecture for the team. River Timeline feed system. (807 clones in 6 days)
 
 **[Pneuma](https://github.com/Cordero080/pneuma-ai)** — AI Personality Architecture
-Cognitive framework of 46 philosophical archetypes that collide to synthesize emergent insights — not a chatbot, not a persona, a mind behind the model. (467 clones)
+Cognitive architecture built on Claude. 46 philosophical archetypes (Rumi,   
+  Borges, Jung, Feynman) dynamically selected via intent classification and synthesized 
+  in real time to produce emergent, non-scripted personality. Not a persona layer — a   
+  routing and synthesis system. 
 
 **[Nexus Geom Lab](https://github.com/Cordero080/nexus-geom-lab)** — 3D Geometry Visualization Platform
 24 hyperdimensional geometries with GLSL shaders, progressive unlock system, and audio-reactive rendering. (380 clones)
