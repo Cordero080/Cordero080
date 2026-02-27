@@ -13,11 +13,11 @@ Complexity should serve the user—not the other way around. I build systems tha
 **[NUMENEON](https://github.com/Cordero080/Numeneon-frontend)** — Co-Lead & System Architect
 Neopunk social media platform; designed full-stack scaffolding, pseudocode, and task architecture for the team. River Timeline feed system. (807 clones in 6 days)
 
-**[Pneuma](https://github.com/Cordero080/pneuma-ai)** — AI Personality Architecture
-Cognitive architecture built on Claude. 46 philosophical archetypes (Rumi,   
-  Borges, Jung, Feynman) dynamically selected via intent classification and synthesized 
-  in real time to produce emergent, non-scripted personality. Not a persona layer — a   
-  routing and synthesis system. 
+**[Pneuma](https://github.com/Cordero080/pneuma-ai)** — Pneuma — AI Personality Architecture
+  Cognitive architecture built on Claude. 46 philosophical archetypes (Rumi,
+  Borges, Jung, Feynman) dynamically selected via intent classification and
+  forced into dialectical collision to produce non-scripted synthesis. Not a
+  persona layer — a routing and synthesis system.
 
 **[Nexus Geom Lab](https://github.com/Cordero080/nexus-geom-lab)** — 3D Geometry Visualization Platform
 24 hyperdimensional geometries with GLSL shaders, progressive unlock system, and audio-reactive rendering. (380 clones)
