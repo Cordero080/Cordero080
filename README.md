@@ -1,10 +1,12 @@
 Hello, I am Pablo Cordero
 
-**Full Stack Software Engineer & Creative Technologist** focused on building high-performance web applications where technical precision meets experimental design.
+**Full Stack Software Engineer & Creative Technologist** building at the intersection of experimental design and AI systems engineering.
 
-I architect interactive 3D interfaces, AI-driven cognitive systems, and robust full-stack applications using React, Django, and Three.js. I specialize in translating complex requirements into systematic UI architectures, supported by a disciplined, high-velocity workflow and over 3,000 GitHub contributions.
+I architect interactive 3D interfaces, AI-driven cognitive engines, and full-stack applications where aesthetics and engineering are inseparable. My work spans React, Django, Three.js, and OpenAI integrations — from Pneuma, a philosophical AI personality engine with 46 dialectical archetypes that generates emergent insight through ideological collision, to La Dolce Vita, a multilingual AI concierge that routes guest intent through keyword matching, live iCal availability, and GPT-4o-mini — intelligently, without burning tokens on questions that don't need them.
+I don't just consume AI. I design the systems around it.
 
-Complexity should serve the user—not the other way around. I build systems that feel crafted, intuitive, and easy to reason about.
+Most recently I led UI architecture on NUMENEON — a neopunk social platform with a signature River Timeline that reimagines how feeds handle information congestion. 3,000+ GitHub contributions. Disciplined, high-velocity workflow.
+Complexity should serve the user — not the other way around.
 
 ---
 
