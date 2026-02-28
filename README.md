@@ -1,4 +1,4 @@
-# Hello, I am Pablo Cordero
+Hello, I am Pablo Cordero
 
 **Full Stack Software Engineer & Creative Technologist** focused on building high-performance web applications where technical precision meets experimental design.
 
