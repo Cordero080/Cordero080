@@ -6,7 +6,7 @@ I architect interactive 3D interfaces, AI-driven cognitive engines, and full-sta
 
 I don't just consume AI. I design the systems around it.
 
-Most recently I led UI architecture on NUMENEON — a neopunk social platform with a signature River Timeline that reimagines how feeds handle information congestion. 3,000+ GitHub contributions. Disciplined, high-velocity workflow.
+Most recently I led UI architecture on NUMENEON — a neopunk social platform with a signature River Timeline that reimagines how feeds handle information congestion.
 Complexity should serve the user — not the other way around.
 
 ---
