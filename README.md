@@ -1,6 +1,10 @@
 # Pablo Cordero
 
 **Full Stack Software Engineer & Creative Technologist**  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pvblocordero.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pvblo-corder080)
+
 Building at the intersection of experimental design, AI agents, and systems engineering.
 
 I architect interactive 3D interfaces, AI-driven systems, and full-stack applications where aesthetics and engineering are inseparable. My work spans React, Django, Three.js, and OpenAI integrations.
