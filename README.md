@@ -34,10 +34,10 @@ LLMs calling other LLMs as tools. 43 philosophical archetypes dynamically select
 **[Pneumata](https://github.com/Cordero080/pneumata)** — 3D Anatomical Systems Interface  
 Interactive 3D model mapping human organs to hardware analogs. Features real-time node interaction, spinal bus mapping, and system-level visualization across biological and computational layers.
 
-**[Nexus Geom Lab](https://github.com/Cordero080/nexus-geom-lab)** — 3D Geometry Visualization Platform  
+**[Manifold](https://github.com/Cordero080/nexus-geom-lab)** — 3D Geometry Visualization Platform  
 24 hyperdimensional geometries with GLSL shaders, progressive unlock system, and audio-reactive rendering.
 
-**[Transcendence](https://github.com/Cordero080/Transcendence-3D-v2)** — 3D Evolution Simulator  
+**[Xenochi](https://github.com/Cordero080/Transcendence-3D-v2)** — 3D Evolution Simulator  
 Full Blender → FBX → Three.js pipeline with 32 custom animations, GLSL shaders, and a hidden Battle Arena.
 
 **[NUCAT](https://github.com/Cordero080/nucat)** — GPU Particle Systems  
@@ -52,6 +52,9 @@ Martial arts tracker based on Okinawan Goju Ryu curriculum, featuring belt progr
 ### AI & Emerging Technologies
 ![Anthropic](https://img.shields.io/badge/Anthropic-%23191919.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Hume AI](https://img.shields.io/badge/Hume_AI-%23FF6B6B.svg?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-%23191919.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-%23000000.svg?style=for-the-badge&logoColor=white)
 
 ### Frontend & Creative Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
