@@ -7,9 +7,10 @@
 
 Building at the intersection of experimental design, AI agents, and systems engineering.
 
-I architect interactive 3D interfaces, AI-driven systems, and full-stack applications where aesthetics and engineering are inseparable. My work spans React, Django, Three.js, and OpenAI integrations.
+I architect interactive 3D interfaces, multi-LLM compound AI systems, and full-stack applications where aesthetics and engineering are inseparable. My
+  work spans React, Django, Three.js, and LLM orchestration with Claude and OpenAI.
 
-From **Pneuma** — a philosophical AI engine with 46 archetypes generating perspectives through ideological conflict,  
+From **Pneuma** — a multi-LLM compound AI system with 43 archetypes generating perspectives through ideological conflict, 
 to **Pneumata** — an interactive 3D system mapping human anatomy to hardware architecture,  
 to **La Dolce Vita** — a multilingual AI concierge routing guest intent via keyword matching, live iCal availability, and GPT-4o-mini without unnecessary token use.
 
