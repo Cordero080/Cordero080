@@ -26,8 +26,9 @@ Complexity should serve the user — not the other way around.
 **[NUMENEON](https://github.com/Cordero080/Numeneon-frontend)** — Co-Lead & System Architect  
 Neopunk social platform; designed full-stack scaffolding, pseudocode, and task architecture. River Timeline feed system. (807 clones in 6 days)
 
-**[Pneuma](https://github.com/Cordero080/pneuma-ai)** — AI Cognitive Architecture  
-Cognitive system built on Claude. 44 philosophical archetypes dynamically selected via semantic routing and forced into dialectical collision to produce non-scripted synthesis. Includes a 3-layer memory system and evolving personality through archetype momentum decay. Built end-to-end.
+**[Pneuma](https://github.com/Cordero080/pneuma-ai)** — Multi-LLM Compound AI System
+LLMs calling other LLMs as tools. 43 philosophical archetypes dynamically selected via agentic RAG and semantic routing, forced into dialectical collision across 1,764 pre-mapped tension pairs. Four model calls per response — intent scoring (Claude), archetype routing (OpenAI embeddings), emotion detection (Hume AI), generation (Claude). 3-layer memory system and evolving personality through archetype momentum decay. Built end-to-end.
+
 
 **[Pneumata](https://github.com/Cordero080/pneumata)** — 3D Anatomical Systems Interface  
 Interactive 3D model mapping human organs to hardware analogs. Features real-time node interaction, spinal bus mapping, and system-level visualization across biological and computational layers.
