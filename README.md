@@ -26,10 +26,10 @@ Complexity should serve the user.
 **[NUMENEON](https://github.com/Cordero080/Numeneon-frontend)** — Co-Lead & System Architect  
 Neopunk social platform; designed full-stack scaffolding, pseudocode, and task architecture. River Timeline feed system. (807 clones in 6 days)
 
-**[Pneuma](https://github.com/Cordero080/pneuma-ai) — **Multi-LLM Compound AI System**
+[Pneuma](https://github.com/Cordero080/pneuma-ai) — **Multi-LLM Compound AI System**
 LLMs calling other LLMs as tools. 44 philosophical archetypes dynamically selected via agentic RAG and semantic routing, forced into dialectical collision across 98 hand-authored tension pairs. Model calls per response — intent scoring (Claude), archetype routing (OpenAI embeddings), generation (Claude), self-evaluation (Claude). 3-layer memory system and evolving personality through archetype momentum decay. Built end-to-end.
 
-**[Archetope](https://github.com/Cordero080/archetope) — **Multi-Agent Emergent Society Simulation**
+[Archetope](https://github.com/Cordero080/archetope) — **Multi-Agent Emergent Society Simulation**
 AI minds with distinct architectures building a civilization from scratch. Emergent coordination without central control.
 
 **[Pneumata](https://github.com/Cordero080/pneumata)** — 3D Anatomical Systems Interface  
