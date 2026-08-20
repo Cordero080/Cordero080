@@ -7,9 +7,9 @@
 
 I build AI systems and interactive 3D interfaces — retrieval pipelines, agent orchestration, and the frontends they live in. React, Django, Three.js, and LLM orchestration with Claude and OpenAI.
 
-**[Pneuma](url)** — a multi-LLM compound AI system where 44 archetypes are selected by embedding similarity and forced into ideological conflict. Hand-built retrieval: chunking, re-ranking, semantic routing, and an evaluation harness that scores every response.
+[Pneuma](url)** — a multi-LLM compound AI system where 44 archetypes are selected by embedding similarity and forced into ideological conflict. Hand-built retrieval: chunking, re-ranking, semantic routing, and an evaluation harness that scores every response.
 
-**[Archetope](url)** — a multi-agent simulation where AI minds with distinct architectures build a civilization without central control.
+[Archetope](url)** — a multi-agent simulation where AI minds with distinct architectures build a civilization without central control.
 
 **[Pneumata](url)** — an interactive 3D system mapping human anatomy to hardware architecture.
 
