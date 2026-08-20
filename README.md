@@ -5,20 +5,19 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pvblocordero.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pvblo-corder080)
 
-Building at the intersection of experimental design, AI agents, and systems engineering.
+I build AI systems and interactive 3D interfaces — retrieval pipelines, agent orchestration, and the frontends they live in. React, Django, Three.js, and LLM orchestration with Claude and OpenAI.
 
-I architect interactive 3D interfaces, multi-LLM compound AI systems, and full-stack applications where aesthetics and engineering are inseparable. My
-  work spans React, Django, Three.js, and LLM orchestration with Claude and OpenAI.
+**[Pneuma](url)** — a multi-LLM compound AI system where 44 archetypes are selected by embedding similarity and forced into ideological conflict. Hand-built retrieval: chunking, re-ranking, semantic routing, and an evaluation harness that scores every response.
 
-From **Pneuma** — a multi-LLM compound AI system with 43 archetypes generating perspectives through ideological conflict, 
-to **Pneumata** — an interactive 3D system mapping human anatomy to hardware architecture,  
-to **La Dolce Vita** — a multilingual AI concierge routing guest intent via keyword matching, live iCal availability, and GPT-4o-mini without unnecessary token use.
+**[Archetope](url)** — a multi-agent simulation where AI minds with distinct architectures build a civilization without central control.
 
-**I don’t just consume AI. I design the systems around it.**
+**[Pneumata](url)** — an interactive 3D system mapping human anatomy to hardware architecture.
 
-Most recently, I led UI architecture on **NUMENEON** — a neopunk social platform featuring the *River Timeline*, rethinking how feeds handle information congestion.
+**[La Dolce Vita](url)** — a trilingual AI concierge with a three-tier pipeline: live calendar lookups and common questions answered in code, the model reserved for the long tail. Cost stays flat as traffic grows.
 
-Complexity should serve the user — not the other way around.
+**[NUMENEON](url)** — led UI architecture on a neopunk social platform. The *River Timeline* rethinks how feeds handle information congestion.
+
+Complexity should serve the user.
 
 ---
 
@@ -27,9 +26,11 @@ Complexity should serve the user — not the other way around.
 **[NUMENEON](https://github.com/Cordero080/Numeneon-frontend)** — Co-Lead & System Architect  
 Neopunk social platform; designed full-stack scaffolding, pseudocode, and task architecture. River Timeline feed system. (807 clones in 6 days)
 
-**[Pneuma](https://github.com/Cordero080/pneuma-ai)** — Multi-LLM Compound AI System
-LLMs calling other LLMs as tools. 43 philosophical archetypes dynamically selected via agentic RAG and semantic routing, forced into dialectical collision across 1,764 pre-mapped tension pairs. Four model calls per response — intent scoring (Claude), archetype routing (OpenAI embeddings), emotion detection (Hume AI), generation (Claude). 3-layer memory system and evolving personality through archetype momentum decay. Built end-to-end.
+**[Pneuma](https://github.com/Cordero080/pneuma-ai) — **Multi-LLM Compound AI System**
+LLMs calling other LLMs as tools. 44 philosophical archetypes dynamically selected via agentic RAG and semantic routing, forced into dialectical collision across 98 hand-authored tension pairs. Model calls per response — intent scoring (Claude), archetype routing (OpenAI embeddings), generation (Claude), self-evaluation (Claude). 3-layer memory system and evolving personality through archetype momentum decay. Built end-to-end.
 
+**[Archetope](https://github.com/Cordero080/archetope) — **Multi-Agent Emergent Society Simulation**
+AI minds with distinct architectures building a civilization from scratch. Emergent coordination without central control.
 
 **[Pneumata](https://github.com/Cordero080/pneumata)** — 3D Anatomical Systems Interface  
 Interactive 3D model mapping human organs to hardware analogs. Features real-time node interaction, spinal bus mapping, and system-level visualization across biological and computational layers.
