@@ -7,15 +7,15 @@
 
 I build AI systems and interactive 3D interfaces — retrieval pipelines, agent orchestration, and the frontends they live in. React, Django, Three.js, and LLM orchestration with Claude and OpenAI.
 
-[Pneuma](url)** — a multi-LLM compound AI system where 44 archetypes are selected by embedding similarity and forced into ideological conflict. Hand-built retrieval: chunking, re-ranking, semantic routing, and an evaluation harness that scores every response.
+[Pneuma](https://github.com/Cordero080/pneuma-ai)** — a multi-LLM compound AI system where 44 archetypes are selected by embedding similarity and forced into ideological conflict. Hand-built retrieval: chunking, re-ranking, semantic routing, and an evaluation harness that scores every response.
 
-[Archetope](url)** — a multi-agent simulation where AI minds with distinct architectures build a civilization without central control.
+[Archetope](https://github.com/Cordero080/archetope)** — a multi-agent simulation where AI minds with distinct architectures build a civilization without central control.
 
-**[Pneumata](url)** — an interactive 3D system mapping human anatomy to hardware architecture.
+**[Pneumata](https://github.com/Cordero080/Pneumata)** — an interactive 3D system mapping human anatomy to hardware architecture.
 
-**[La Dolce Vita](url)** — a trilingual AI concierge with a three-tier pipeline: live calendar lookups and common questions answered in code, the model reserved for the long tail. Cost stays flat as traffic grows.
+**[La Dolce Vita](https://github.com/Cordero080/rosecore)** — a trilingual AI concierge with a three-tier pipeline: live calendar lookups and common questions answered in code, the model reserved for the long tail. Cost stays flat as traffic grows.
 
-**[NUMENEON](url)** — led UI architecture on a neopunk social platform. The *River Timeline* rethinks how feeds handle information congestion.
+**[NUMENEON](https://github.com/Cordero080/Numeneon-frontend)** — led UI architecture on a neopunk social platform. The *River Timeline* rethinks how feeds handle information congestion.
 
 Complexity should serve the user.
 
